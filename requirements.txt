@@ -1,1 +1,3 @@
-pip install pymongo aiohttp pyTelegramBotAPI
+pymongo
+aiohttp
+pyTelegramBotAPI
